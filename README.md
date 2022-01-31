@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @eugenebondthe
+- 👀 I’m interested in AQA
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on people who know JS better than me
